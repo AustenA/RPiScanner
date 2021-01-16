@@ -1,0 +1,1 @@
+This is a network scanner I wrote for a class project. It requests the MAC address from every IP on the network. It was mainly built to scan for Raspberry Pi's if you don't know the IP. Only works on Windows.
